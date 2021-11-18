@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi! I'm Juliette Verstaen</h1>
 
-<!--
-**julietteverstaen/julietteverstaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> Data integrator @ the Cooperative Institute for Marine and Atmospheric Reasearch (CIMAR)</h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What am I up to? 
+
+I am currently working on two projects:
+
+1. Assisting the Hawai'i Monitoring and Reporting Collabortive [(HIMARC)](https://donovanlab.org/research/himarc) team with database management
+2. Collecting, integrating, and visualizing ecological and physical marine data from American Samoa 
+
+### Experience
+
+- 2021 - present: Data Integrator (CIMAR)
+- 2020 - 2021: Data Analyst (NCEAS)
+- 2019: Ocean Researcher (NCEAS)
+- 2018 (summer): Future Park Leader of Emerging Change Itern (Biscayne National Park)
+- 2015 - 2017: Lab and Field Technician (Moorea Coral Reef LTER)
+
+### Education
+
+- 2019 MSEM Coastal Marine Research Management | Focus in Environmental Data Science
+  - Bren School of Environmental Science & Management
+- 2015 BS Aquatic Biology
+  - UC Santa Barbara
