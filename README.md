@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Juliette Verstaen</h1>
 
-<h3 align="center"> eb Applications Developer @ the Cooperative Institute for Marine and Atmospheric Reasearch (CIMAR)</h3>
+<h3 align="center"> Web Applications Developer @ the Cooperative Institute for Marine and Atmospheric Reasearch (CIMAR)</h3>
 
 <br>
 
