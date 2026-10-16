@@ -4,16 +4,8 @@
 
 <br>
 
-### What am I up to? 
-
-I am currently working on two projects:
-
-1. Assisting the Hawai'i Monitoring and Reporting Collabortive [(HIMARC)](https://donovanlab.org/research/himarc) team with database management
-2. Collecting, integrating, and visualizing ecological and physical marine data from American Samoa 
-
-### Experience
-
-- 2021 - present: Data Integrator (CIMAR)
+- Oct 2026 - Present: Web Applications Developer (CIMAR)
+- 2021 - Sept 2026: Marine Ecosystems Research Analyst (CIMAR)
 - 2020 - 2021: Data Analyst (NCEAS)
 - 2019: Ocean Researcher (NCEAS)
 - 2018 (summer): Future Park Leader of Emerging Change Itern (Biscayne National Park)
